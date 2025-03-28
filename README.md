@@ -34,7 +34,7 @@
 
 > [!IMPORTANT]
 >
-> **增加字形和修改字形请点[这里]，记得开新的*issue*来申报哦~(https://github.com/Hansha2011/NanoOldSong/issues/)**
+> **增加字形和修改字形请点[这里](https://github.com/Hansha2011/NanoOldSong/issues/)，记得开新的*issue*来申报哦~**
 
 ## 字体授权
 授权协议与原字体保持一致：
