@@ -75,7 +75,7 @@
 |单位|名称|来源|
 |-|-|-|
 |制作者|[**H.S.S. - 寒沙**](https://github.com/Hansha2011/)|Github|
-|制作者|[**Scott0107000**](https://github.com/scott0107000/)|Github|
+|制作者/技术支持|[**Scott0107000**](https://github.com/scott0107000/)|Github|
 |制作者|[**不务正业的小鸡**](https://github.com/buwuzhengyedexiaoji)|Github|
 |纠错者|**蓝海**|QQ|
 
